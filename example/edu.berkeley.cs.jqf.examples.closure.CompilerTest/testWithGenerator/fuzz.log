@@ -1,0 +1,894 @@
+Saving new input (at run 1): input #0 of size 5; total coverage = 1507
+Saved - /home/wxj/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000000 random +count+cov
+Saving new input (at run 3): input #1 of size 14; total coverage = 3407
+Saved - /home/wxj/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000001 src:000000,havoc:3 +count+cov+valid
+Saving new input (at run 5): input #2 of size 5; total coverage = 3414
+Saved - /home/wxj/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000002 src:000000,havoc:1 +count+cov+valid
+Saving new input (at run 6): input #3 of size 14; total coverage = 3687
+Saved - /home/wxj/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000003 src:000000,havoc:12 +count+cov+valid
+Saving new input (at run 8): input #4 of size 15; total coverage = 3696
+Saved - /home/wxj/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000004 src:000000,havoc:36 +count+cov+valid
+Saving new input (at run 17): input #5 of size 5; total coverage = 3710
+Saved - /home/wxj/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000005 src:000000,havoc:1 +count+cov
+Saving new input (at run 18): input #6 of size 6; total coverage = 3719
+Saved - /home/wxj/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000006 src:000000,havoc:3 +count+cov
+Saving new input (at run 20): input #7 of size 42; total coverage = 3900
+Saved - /home/wxj/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000007 src:000000,havoc:1 +count+cov
+Saving new input (at run 21): input #8 of size 9; total coverage = 4101
+Saved - /home/wxj/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000008 src:000000,havoc:4 +count+cov+valid
+Saving new input (at run 45): input #9 of size 8860; total coverage = 4440
+Saved - /home/wxj/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000009 src:000000,havoc:2 +count+cov
+Saving new input (at run 46): input #10 of size 23; total coverage = 4463
+Saved - /home/wxj/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000010 src:000000,havoc:11 +count+cov+valid
+Saving new input (at run 54): input #11 of size 9; total coverage = 4463
+Saved - /home/wxj/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000011 src:000000,havoc:1 +valid
+Saving new input (at run 71): input #12 of size 125; total coverage = 4505
+Saved - /home/wxj/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000012 src:000000,havoc:2 +count+cov
+Saving new input (at run 73): input #13 of size 34; total coverage = 4509
+Saved - /home/wxj/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000013 src:000000,havoc:6 +count+cov
+Saving new input (at run 74): input #14 of size 169; total coverage = 4614
+Saved - /home/wxj/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000014 src:000000,havoc:12 +count+cov
+Saving new input (at run 80): input #15 of size 15; total coverage = 4614
+Saved - /home/wxj/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000015 src:000000,havoc:7 +count
+Saving new input (at run 82): input #16 of size 53; total coverage = 4621
+Saved - /home/wxj/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000016 src:000000,havoc:8 +count+cov
+Saving new input (at run 83): input #17 of size 7602; total coverage = 4685
+Saved - /home/wxj/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000017 src:000000,havoc:14 +count+cov
+Saving new input (at run 87): input #18 of size 39; total coverage = 4772
+Saved - /home/wxj/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000018 src:000000,havoc:8 +count+cov+valid
+Saving new input (at run 88): input #19 of size 139; total coverage = 4786
+Saved - /home/wxj/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000019 src:000000,havoc:1 +count+cov
+Saving new input (at run 99): input #20 of size 16; total coverage = 4844
+Saved - /home/wxj/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000020 src:000000,havoc:2 +count+cov+valid
+Saving new input (at run 107): input #21 of size 28; total coverage = 4844
+Saved - /home/wxj/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000021 src:000000,havoc:2 +count
+Saving new input (at run 109): input #22 of size 30; total coverage = 5040
+Saved - /home/wxj/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000022 src:000000,havoc:10 +count+cov+valid
+Saving new input (at run 121): input #23 of size 34; total coverage = 5118
+Saved - /home/wxj/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000023 src:000000,havoc:1 +count+cov+valid
+Saving new input (at run 123): input #24 of size 19; total coverage = 5125
+Saved - /home/wxj/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000024 src:000000,havoc:8 +count+cov+valid
+Saving new input (at run 133): input #25 of size 15; total coverage = 5127
+Saved - /home/wxj/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000025 src:000000,havoc:8 +count+cov
+Saving new input (at run 141): input #26 of size 15; total coverage = 5132
+Saved - /home/wxj/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000026 src:000000,havoc:4 +count+cov+valid
+Saving new input (at run 144): input #27 of size 18; total coverage = 5132
+Saved - /home/wxj/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000027 src:000000,havoc:8 +count
+Saving new input (at run 149): input #28 of size 9; total coverage = 5132
+Saved - /home/wxj/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000028 src:000000,havoc:6 +valid
+Saving new input (at run 151): input #29 of size 51; total coverage = 5132
+Saved - /home/wxj/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000029 src:000000,havoc:3 +count
+Saving new input (at run 159): input #30 of size 24; total coverage = 5153
+Saved - /home/wxj/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000030 src:000000,havoc:1 +count+cov+valid
+Saving new input (at run 170): input #31 of size 16; total coverage = 5156
+Saved - /home/wxj/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000031 src:000000,havoc:18 +count+cov+valid
+Saving new input (at run 171): input #32 of size 91; total coverage = 5163
+Saved - /home/wxj/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000032 src:000000,havoc:1 +count+cov
+Saving new input (at run 172): input #33 of size 113; total coverage = 5169
+Saved - /home/wxj/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000033 src:000000,havoc:2 +count+cov
+Saving new input (at run 173): input #34 of size 14; total coverage = 5169
+Saved - /home/wxj/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000034 src:000000,havoc:10 +valid
+Saving new input (at run 193): input #35 of size 447; total coverage = 5211
+Saved - /home/wxj/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000035 src:000000,havoc:1 +count+cov
+Saving new input (at run 195): input #36 of size 78; total coverage = 5284
+Saved - /home/wxj/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000036 src:000000,havoc:9 +count+cov+valid
+Saving new input (at run 210): input #37 of size 23; total coverage = 5294
+Saved - /home/wxj/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000037 src:000000,havoc:7 +count+cov+valid
+Saving new input (at run 231): input #38 of size 47; total coverage = 5298
+Saved - /home/wxj/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000038 src:000000,havoc:5 +count+cov
+Saving new input (at run 236): input #39 of size 29; total coverage = 5298
+Saved - /home/wxj/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000039 src:000000,havoc:8 +count
+Saving new input (at run 239): input #40 of size 89; total coverage = 5765
+Saved - /home/wxj/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000040 src:000000,havoc:16 +count+cov+valid
+Saving new input (at run 243): input #41 of size 52; total coverage = 5765
+Saved - /home/wxj/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000041 src:000000,havoc:1 +count
+Saving new input (at run 246): input #42 of size 48; total coverage = 5766
+Saved - /home/wxj/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000042 src:000000,havoc:1 +count+cov
+Saving new input (at run 256): input #43 of size 100; total coverage = 5766
+Saved - /home/wxj/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000043 src:000000,havoc:17 +count
+Saving new input (at run 257): input #44 of size 49; total coverage = 5769
+Saved - /home/wxj/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000044 src:000000,havoc:6 +count+cov
+Saving new input (at run 260): input #45 of size 75; total coverage = 5769
+Saved - /home/wxj/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000045 src:000000,havoc:2 +count
+Saving new input (at run 272): input #46 of size 2406; total coverage = 5782
+Saved - /home/wxj/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000046 src:000001,havoc:6 +count+cov
+Saving new input (at run 279): input #47 of size 59; total coverage = 5800
+Saved - /home/wxj/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000047 src:000001,havoc:7 +count+cov
+Saving new input (at run 298): input #48 of size 26; total coverage = 5803
+Saved - /home/wxj/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000048 src:000001,havoc:18 +count+cov+valid
+Saving new input (at run 301): input #49 of size 185; total coverage = 5804
+Saved - /home/wxj/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000049 src:000001,havoc:13 +count+cov
+Saving new input (at run 327): input #50 of size 23; total coverage = 5822
+Saved - /home/wxj/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000050 src:000001,havoc:2 +count+cov+valid
+Saving new input (at run 338): input #51 of size 19; total coverage = 5822
+Saved - /home/wxj/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000051 src:000001,havoc:1 +valid
+Saving new input (at run 346): input #52 of size 28; total coverage = 5822
+Saved - /home/wxj/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000052 src:000001,havoc:6 +count
+Saving new input (at run 350): input #53 of size 26; total coverage = 5822
+Saved - /home/wxj/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000053 src:000001,havoc:13 +count
+Saving new input (at run 352): input #54 of size 46; total coverage = 5876
+Saved - /home/wxj/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000054 src:000001,havoc:23 +count+cov+valid
+Saving new input (at run 358): input #55 of size 62; total coverage = 5934
+Saved - /home/wxj/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000055 src:000001,havoc:5 +count+cov+valid
+Saving new input (at run 388): input #56 of size 57; total coverage = 5947
+Saved - /home/wxj/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000056 src:000001,havoc:1 +count+cov
+Saving new input (at run 389): input #57 of size 48; total coverage = 6031
+Saved - /home/wxj/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000057 src:000001,havoc:1 +count+cov+valid
+Saving new input (at run 393): input #58 of size 37; total coverage = 6032
+Saved - /home/wxj/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000058 src:000001,havoc:2 +count+cov+valid
+Saving new input (at run 396): input #59 of size 71; total coverage = 6039
+Saved - /home/wxj/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000059 src:000001,havoc:7 +count+cov+valid
+Saving new input (at run 414): input #60 of size 19; total coverage = 6039
+Saved - /home/wxj/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000060 src:000001,havoc:1 +valid
+Saving new input (at run 421): input #61 of size 28; total coverage = 6040
+Saved - /home/wxj/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000061 src:000001,havoc:4 +count+cov
+Saving new input (at run 440): input #62 of size 19; total coverage = 6040
+Saved - /home/wxj/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000062 src:000001,havoc:5 +valid
+Saving new input (at run 458): input #63 of size 1388; total coverage = 6041
+Saved - /home/wxj/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000063 src:000001,havoc:3 +count+cov
+Saving new input (at run 476): input #64 of size 111; total coverage = 6104
+Saved - /home/wxj/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000064 src:000001,havoc:9 +count+cov+valid
+Saving new input (at run 479): input #65 of size 82; total coverage = 6108
+Saved - /home/wxj/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000065 src:000001,havoc:9 +count+cov
+Saving new input (at run 498): input #66 of size 15; total coverage = 6108
+Saved - /home/wxj/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000066 src:000001,havoc:4 +count
+Saving new input (at run 499): input #67 of size 37; total coverage = 6111
+Saved - /home/wxj/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000067 src:000001,havoc:9 +count+cov
+Saving new input (at run 509): input #68 of size 19; total coverage = 6111
+Saved - /home/wxj/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000068 src:000001,havoc:1 +valid
+Saving new input (at run 542): input #69 of size 24; total coverage = 6111
+Saved - /home/wxj/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000069 src:000001,havoc:3 +count
+Saving new input (at run 544): input #70 of size 54; total coverage = 6114
+Saved - /home/wxj/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000070 src:000001,havoc:1 +count+cov+valid
+Saving new input (at run 550): input #71 of size 33; total coverage = 6115
+Saved - /home/wxj/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000071 src:000001,havoc:17 +count+cov+valid
+Saving new input (at run 551): input #72 of size 454; total coverage = 6121
+Saved - /home/wxj/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000072 src:000001,havoc:10 +count+cov
+Saving new input (at run 552): input #73 of size 9052; total coverage = 6152
+Saved - /home/wxj/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000073 src:000001,havoc:29 +count+cov
+Saving new input (at run 613): input #74 of size 19; total coverage = 6152
+Saved - /home/wxj/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000074 src:000001,havoc:1 +valid
+Saving new input (at run 614): input #75 of size 27; total coverage = 6152
+Saved - /home/wxj/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000075 src:000001,havoc:3 +count
+Saving new input (at run 623): input #76 of size 112; total coverage = 6177
+Saved - /home/wxj/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000076 src:000001,havoc:10 +count+cov
+Saving new input (at run 645): input #77 of size 21; total coverage = 6178
+Saved - /home/wxj/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000077 src:000001,havoc:12 +count+cov+valid
+Saving new input (at run 648): input #78 of size 24; total coverage = 6181
+Saved - /home/wxj/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000078 src:000001,havoc:3 +count+cov+valid
+Found crash: class java.lang.NullPointerException - NAME x_1 1 [length: 3] [source_file: input]
+Saved - /home/wxj/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/failures/id_000000 src:000001,havoc:5 +crash
+Saving new input (at run 670): input #79 of size 64; total coverage = 6181
+Saved - /home/wxj/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000079 src:000001,havoc:6 +count
+Saving new input (at run 674): input #80 of size 16; total coverage = 6183
+Saved - /home/wxj/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000080 src:000001,havoc:23 +count+cov+valid
+Saving new input (at run 709): input #81 of size 35; total coverage = 6203
+Saved - /home/wxj/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000081 src:000001,havoc:14 +count+cov+valid
+Saving new input (at run 713): input #82 of size 38; total coverage = 6264
+Saved - /home/wxj/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000082 src:000001,havoc:12 +count+cov+valid
+Found crash: class java.lang.NullPointerException - NAME s_2 1 [length: 3] [source_file: input]
+Saved - /home/wxj/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/failures/id_000001 src:000001,havoc:1 +crash
+Saving new input (at run 739): input #83 of size 42; total coverage = 6264
+Saved - /home/wxj/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000083 src:000001,havoc:10 +count+valid
+Saving new input (at run 747): input #84 of size 96; total coverage = 6264
+Saved - /home/wxj/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000084 src:000001,havoc:6 +count
+Saving new input (at run 755): input #85 of size 13; total coverage = 6265
+Saved - /home/wxj/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000085 src:000001,havoc:10 +count+cov+valid
+Saving new input (at run 769): input #86 of size 55; total coverage = 6362
+Saved - /home/wxj/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000086 src:000001,havoc:12 +count+cov+valid
+Saving new input (at run 800): input #87 of size 547; total coverage = 6363
+Saved - /home/wxj/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000087 src:000002,havoc:7 +count+cov
+Saving new input (at run 801): input #88 of size 122; total coverage = 6364
+Saved - /home/wxj/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000088 src:000002,havoc:2 +count+cov
+Saving new input (at run 803): input #89 of size 43; total coverage = 6364
+Saved - /home/wxj/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000089 src:000002,havoc:1 +count
+Saving new input (at run 804): input #90 of size 40; total coverage = 6364
+Saved - /home/wxj/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000090 src:000002,havoc:9 +count
+Saving new input (at run 823): input #91 of size 146; total coverage = 6365
+Saved - /home/wxj/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000091 src:000002,havoc:8 +count+cov
+Saving new input (at run 846): input #92 of size 38; total coverage = 6365
+Saved - /home/wxj/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000092 src:000002,havoc:15 +count
+Saving new input (at run 850): input #93 of size 72; total coverage = 6369
+Saved - /home/wxj/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000093 src:000002,havoc:2 +count+cov+valid
+Saving new input (at run 865): input #94 of size 51; total coverage = 6371
+Saved - /home/wxj/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000094 src:000002,havoc:2 +count+cov
+Saving new input (at run 869): input #95 of size 38; total coverage = 6373
+Saved - /home/wxj/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000095 src:000002,havoc:8 +count+cov
+Saving new input (at run 870): input #96 of size 135; total coverage = 6373
+Saved - /home/wxj/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000096 src:000002,havoc:6 +count
+Saving new input (at run 879): input #97 of size 15; total coverage = 6373
+Saved - /home/wxj/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000097 src:000002,havoc:2 +count
+Saving new input (at run 893): input #98 of size 129; total coverage = 6373
+Saved - /home/wxj/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000098 src:000002,havoc:19 +count
+Saving new input (at run 897): input #99 of size 48; total coverage = 6383
+Saved - /home/wxj/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000099 src:000002,havoc:6 +count+cov+valid
+Saving new input (at run 908): input #100 of size 98; total coverage = 6385
+Saved - /home/wxj/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000100 src:000002,havoc:6 +count+cov
+Saving new input (at run 914): input #101 of size 24; total coverage = 6386
+Saved - /home/wxj/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000101 src:000002,havoc:1 +count+cov+valid
+Saving new input (at run 932): input #102 of size 25; total coverage = 6386
+Saved - /home/wxj/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000102 src:000002,havoc:3 +count
+Saving new input (at run 949): input #103 of size 42; total coverage = 6395
+Saved - /home/wxj/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000103 src:000002,havoc:6 +count+cov+valid
+Saving new input (at run 960): input #104 of size 57; total coverage = 6396
+Saved - /home/wxj/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000104 src:000002,havoc:39 +count+cov
+Saving new input (at run 968): input #105 of size 43; total coverage = 6415
+Saved - /home/wxj/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000105 src:000002,havoc:2 +count+cov+valid
+Saving new input (at run 969): input #106 of size 216; total coverage = 6415
+Saved - /home/wxj/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000106 src:000002,havoc:2 +count
+Saving new input (at run 987): input #107 of size 34; total coverage = 6415
+Saved - /home/wxj/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000107 src:000002,havoc:2 +count
+Saving new input (at run 995): input #108 of size 57; total coverage = 6415
+Saved - /home/wxj/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000108 src:000002,havoc:3 +count
+Saving new input (at run 1003): input #109 of size 15; total coverage = 6415
+Saved - /home/wxj/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000109 src:000002,havoc:8 +count
+Saving new input (at run 1015): input #110 of size 8605; total coverage = 6419
+Saved - /home/wxj/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000110 src:000002,havoc:3 +count+cov
+Saving new input (at run 1041): input #111 of size 48; total coverage = 6424
+Saved - /home/wxj/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000111 src:000002,havoc:8 +count+cov+valid
+Saving new input (at run 1062): input #112 of size 8592; total coverage = 6425
+Saved - /home/wxj/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000112 src:000002,havoc:5 +count+cov
+Saving new input (at run 1068): input #113 of size 23; total coverage = 6427
+Saved - /home/wxj/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000113 src:000002,havoc:5 +count+cov+valid
+Saving new input (at run 1076): input #114 of size 319; total coverage = 6427
+Saved - /home/wxj/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000114 src:000002,havoc:1 +count
+Saving new input (at run 1100): input #115 of size 4230; total coverage = 6428
+Saved - /home/wxj/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000115 src:000002,havoc:3 +count+cov
+Saving new input (at run 1101): input #116 of size 8594; total coverage = 6445
+Saved - /home/wxj/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000116 src:000002,havoc:5 +count+cov
+Saving new input (at run 1107): input #117 of size 134; total coverage = 6447
+Saved - /home/wxj/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000117 src:000002,havoc:3 +count+cov
+Saving new input (at run 1116): input #118 of size 95; total coverage = 6447
+Saved - /home/wxj/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000118 src:000002,havoc:10 +count
+Saving new input (at run 1149): input #119 of size 30; total coverage = 6449
+Saved - /home/wxj/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000119 src:000002,havoc:7 +count+cov+valid
+Saving new input (at run 1153): input #120 of size 48; total coverage = 6449
+Saved - /home/wxj/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000120 src:000003,havoc:3 +count
+Saving new input (at run 1195): input #121 of size 27; total coverage = 6449
+Saved - /home/wxj/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000121 src:000003,havoc:15 +count+valid
+Saving new input (at run 1196): input #122 of size 29; total coverage = 6456
+Saved - /home/wxj/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000122 src:000003,havoc:21 +count+cov+valid
+Saving new input (at run 1198): input #123 of size 67; total coverage = 6461
+Saved - /home/wxj/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000123 src:000003,havoc:16 +count+cov+valid
+Saving new input (at run 1215): input #124 of size 823; total coverage = 6461
+Saved - /home/wxj/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000124 src:000003,havoc:1 +count
+Saving new input (at run 1218): input #125 of size 77; total coverage = 6490
+Saved - /home/wxj/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000125 src:000003,havoc:16 +count+cov+valid
+Saving new input (at run 1228): input #126 of size 33; total coverage = 6501
+Saved - /home/wxj/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000126 src:000003,havoc:8 +count+cov+valid
+Saving new input (at run 1234): input #127 of size 91; total coverage = 6502
+Saved - /home/wxj/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000127 src:000003,havoc:17 +count+cov
+Saving new input (at run 1246): input #128 of size 349; total coverage = 6513
+Saved - /home/wxj/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000128 src:000003,havoc:4 +count+cov
+Saving new input (at run 1276): input #129 of size 35; total coverage = 6513
+Saved - /home/wxj/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000129 src:000003,havoc:8 +count
+Saving new input (at run 1370): input #130 of size 33; total coverage = 6514
+Saved - /home/wxj/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000130 src:000003,havoc:3 +count+cov+valid
+Saving new input (at run 1372): input #131 of size 3262; total coverage = 6516
+Saved - /home/wxj/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000131 src:000003,havoc:5 +count+cov
+Saving new input (at run 1393): input #132 of size 185; total coverage = 6576
+Saved - /home/wxj/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000132 src:000003,havoc:24 +count+cov+valid
+Saving new input (at run 1394): input #133 of size 33; total coverage = 6621
+Saved - /home/wxj/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000133 src:000003,havoc:5 +count+cov+valid
+Saving new input (at run 1402): input #134 of size 84; total coverage = 6637
+Saved - /home/wxj/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000134 src:000003,havoc:1 +count+cov+valid
+Saving new input (at run 1442): input #135 of size 45; total coverage = 6660
+Saved - /home/wxj/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000135 src:000003,havoc:4 +count+cov+valid
+Saving new input (at run 1490): input #136 of size 101; total coverage = 6660
+Saved - /home/wxj/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000136 src:000003,havoc:23 +count
+Saving new input (at run 1494): input #137 of size 56; total coverage = 6660
+Saved - /home/wxj/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000137 src:000003,havoc:1 +count
+Saving new input (at run 1498): input #138 of size 48; total coverage = 6662
+Saved - /home/wxj/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000138 src:000003,havoc:2 +count+cov+valid
+Saving new input (at run 1529): input #139 of size 44; total coverage = 6673
+Saved - /home/wxj/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000139 src:000003,havoc:2 +count+cov+valid
+Saving new input (at run 1538): input #140 of size 6184; total coverage = 6680
+Saved - /home/wxj/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000140 src:000003,havoc:13 +count+cov
+Saving new input (at run 1541): input #141 of size 9450; total coverage = 6683
+Saved - /home/wxj/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000141 src:000003,havoc:2 +count+cov
+Saving new input (at run 1560): input #142 of size 303; total coverage = 6683
+Saved - /home/wxj/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000142 src:000003,havoc:9 +count
+Saving new input (at run 1574): input #143 of size 491; total coverage = 6684
+Saved - /home/wxj/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000143 src:000003,havoc:4 +count+cov
+Saving new input (at run 1577): input #144 of size 5464; total coverage = 6694
+Saved - /home/wxj/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000144 src:000003,havoc:13 +count+cov
+Saving new input (at run 1582): input #145 of size 203; total coverage = 6695
+Saved - /home/wxj/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000145 src:000003,havoc:14 +count+cov
+Saving new input (at run 1585): input #146 of size 8005; total coverage = 6701
+Saved - /home/wxj/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000146 src:000003,havoc:9 +count+cov
+Saving new input (at run 1589): input #147 of size 71; total coverage = 6735
+Saved - /home/wxj/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000147 src:000003,havoc:3 +count+cov+valid
+Saving new input (at run 1606): input #148 of size 643; total coverage = 6735
+Saved - /home/wxj/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000148 src:000003,havoc:12 +count
+Saving new input (at run 1651): input #149 of size 55; total coverage = 6739
+Saved - /home/wxj/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000149 src:000003,havoc:1 +count+cov+valid
+Saving new input (at run 1679): input #150 of size 27; total coverage = 6739
+Saved - /home/wxj/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000150 src:000004,havoc:1 +count
+Saving new input (at run 1694): input #151 of size 64; total coverage = 6740
+Saved - /home/wxj/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000151 src:000004,havoc:11 +count+cov+valid
+Saving new input (at run 1711): input #152 of size 19; total coverage = 6741
+Saved - /home/wxj/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000152 src:000004,havoc:2 +count+cov+valid
+Saving new input (at run 1734): input #153 of size 33; total coverage = 6746
+Saved - /home/wxj/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000153 src:000004,havoc:5 +count+cov+valid
+Found crash: class java.lang.NullPointerException - NAME NaN 1 [length: 12] [source_file: input]
+Saved - /home/wxj/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/failures/id_000002 src:000004,havoc:3 +crash
+Saving new input (at run 1758): input #154 of size 35; total coverage = 6746
+Saved - /home/wxj/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000154 src:000004,havoc:7 +count+valid
+Saving new input (at run 1788): input #155 of size 136; total coverage = 6747
+Saved - /home/wxj/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000155 src:000004,havoc:29 +count+cov
+Saving new input (at run 1795): input #156 of size 151; total coverage = 6747
+Saved - /home/wxj/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000156 src:000004,havoc:1 +count
+Saving new input (at run 1818): input #157 of size 57; total coverage = 6753
+Saved - /home/wxj/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000157 src:000004,havoc:3 +count+cov
+Saving new input (at run 1832): input #158 of size 161; total coverage = 6848
+Saved - /home/wxj/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000158 src:000004,havoc:17 +count+cov+valid
+Saving new input (at run 1842): input #159 of size 125; total coverage = 6848
+Saved - /home/wxj/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000159 src:000004,havoc:10 +count
+Found crash: class java.lang.NullPointerException - NAME NaN 1 [length: 5] [source_file: input]
+Saved - /home/wxj/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/failures/id_000003 src:000004,havoc:2 +crash
+Saving new input (at run 1879): input #160 of size 44; total coverage = 6849
+Saved - /home/wxj/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000160 src:000004,havoc:3 +count+cov+valid
+Saving new input (at run 1887): input #161 of size 10113; total coverage = 6850
+Saved - /home/wxj/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000161 src:000004,havoc:1 +count+cov
+Saving new input (at run 1891): input #162 of size 33; total coverage = 6854
+Saved - /home/wxj/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000162 src:000004,havoc:3 +count+cov+valid
+Saving new input (at run 1911): input #163 of size 412; total coverage = 6855
+Saved - /home/wxj/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000163 src:000004,havoc:32 +count+cov
+Saving new input (at run 1914): input #164 of size 69; total coverage = 6855
+Saved - /home/wxj/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000164 src:000004,havoc:11 +count
+Saving new input (at run 1929): input #165 of size 93; total coverage = 6855
+Saved - /home/wxj/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000165 src:000004,havoc:4 +count
+Saving new input (at run 1934): input #166 of size 75; total coverage = 6855
+Saved - /home/wxj/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000166 src:000004,havoc:15 +count
+Saving new input (at run 1960): input #167 of size 4221; total coverage = 6855
+Saved - /home/wxj/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000167 src:000004,havoc:6 +count
+Saving new input (at run 1985): input #168 of size 205; total coverage = 6856
+Saved - /home/wxj/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000168 src:000004,havoc:17 +count+cov
+Saving new input (at run 1993): input #169 of size 98; total coverage = 6856
+Saved - /home/wxj/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000169 src:000004,havoc:14 +count
+Saving new input (at run 1994): input #170 of size 25; total coverage = 6856
+Saved - /home/wxj/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000170 src:000004,havoc:4 +count
+Saving new input (at run 2011): input #171 of size 422; total coverage = 6856
+Saved - /home/wxj/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000171 src:000004,havoc:12 +count
+Saving new input (at run 2013): input #172 of size 294; total coverage = 6856
+Saved - /home/wxj/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000172 src:000004,havoc:22 +count
+Saving new input (at run 2042): input #173 of size 727; total coverage = 6856
+Saved - /home/wxj/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000173 src:000004,havoc:4 +count
+Saving new input (at run 2046): input #174 of size 40; total coverage = 6896
+Saved - /home/wxj/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000174 src:000004,havoc:2 +count+cov+valid
+Saving new input (at run 2056): input #175 of size 845; total coverage = 6896
+Saved - /home/wxj/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000175 src:000004,havoc:11 +count
+Saving new input (at run 2097): input #176 of size 33; total coverage = 6905
+Saved - /home/wxj/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000176 src:000004,havoc:1 +count+cov+valid
+Saving new input (at run 2110): input #177 of size 99; total coverage = 6917
+Saved - /home/wxj/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000177 src:000004,havoc:18 +count+cov+valid
+Saving new input (at run 2111): input #178 of size 222; total coverage = 6917
+Saved - /home/wxj/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000178 src:000004,havoc:6 +count
+Saving new input (at run 2114): input #179 of size 353; total coverage = 6917
+Saved - /home/wxj/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000179 src:000004,havoc:5 +count
+Saving new input (at run 2118): input #180 of size 84; total coverage = 6976
+Saved - /home/wxj/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000180 src:000004,havoc:11 +count+cov+valid
+Saving new input (at run 2139): input #181 of size 73; total coverage = 6997
+Saved - /home/wxj/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000181 src:000005,havoc:4 +count+cov+valid
+Saving new input (at run 2154): input #182 of size 3455; total coverage = 6999
+Saved - /home/wxj/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000182 src:000005,havoc:9 +count+cov
+Saving new input (at run 2178): input #183 of size 4675; total coverage = 7000
+Saved - /home/wxj/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000183 src:000005,havoc:1 +count+cov
+Saving new input (at run 2183): input #184 of size 8589; total coverage = 7001
+Saved - /home/wxj/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000184 src:000005,havoc:6 +count+cov
+Saving new input (at run 2215): input #185 of size 3747; total coverage = 7001
+Saved - /home/wxj/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000185 src:000005,havoc:23 +count
+Saving new input (at run 2303): input #186 of size 83; total coverage = 7005
+Saved - /home/wxj/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000186 src:000005,havoc:13 +count+cov+valid
+Saving new input (at run 2305): input #187 of size 122; total coverage = 7005
+Saved - /home/wxj/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000187 src:000005,havoc:11 +count
+Saving new input (at run 2321): input #188 of size 46; total coverage = 7005
+Saved - /home/wxj/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000188 src:000005,havoc:6 +count
+Saving new input (at run 2358): input #189 of size 1177; total coverage = 7005
+Saved - /home/wxj/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000189 src:000006,havoc:5 +count
+Saving new input (at run 2415): input #190 of size 64; total coverage = 7005
+Saved - /home/wxj/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000190 src:000006,havoc:7 +count
+Saving new input (at run 2447): input #191 of size 44; total coverage = 7005
+Saved - /home/wxj/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000191 src:000006,havoc:17 +count
+Saving new input (at run 2470): input #192 of size 84; total coverage = 7005
+Saved - /home/wxj/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000192 src:000006,havoc:9 +count
+Saving new input (at run 2478): input #193 of size 346; total coverage = 7005
+Saved - /home/wxj/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000193 src:000006,havoc:12 +count
+Saving new input (at run 2491): input #194 of size 42; total coverage = 7006
+Saved - /home/wxj/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000194 src:000006,havoc:2 +count+cov
+Saving new input (at run 2508): input #195 of size 48; total coverage = 7006
+Saved - /home/wxj/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000195 src:000006,havoc:2 +count
+Saving new input (at run 2555): input #196 of size 293; total coverage = 7006
+Saved - /home/wxj/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000196 src:000007,havoc:4 +count
+Saving new input (at run 2612): input #197 of size 185; total coverage = 7151
+Saved - /home/wxj/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000197 src:000007,havoc:37 +count+cov+valid
+Saving new input (at run 2617): input #198 of size 151; total coverage = 7151
+Saved - /home/wxj/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000198 src:000007,havoc:1 +count
+Saving new input (at run 2682): input #199 of size 7216; total coverage = 7152
+Saved - /home/wxj/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000199 src:000007,havoc:5 +count+cov
+Saving new input (at run 2716): input #200 of size 135; total coverage = 7152
+Saved - /home/wxj/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000200 src:000007,havoc:10 +count
+Saving new input (at run 2719): input #201 of size 588; total coverage = 7152
+Saved - /home/wxj/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000201 src:000007,havoc:1 +count
+Saving new input (at run 2734): input #202 of size 1404; total coverage = 7153
+Saved - /home/wxj/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000202 src:000007,havoc:1 +count+cov
+Saving new input (at run 2741): input #203 of size 8412; total coverage = 7154
+Saved - /home/wxj/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000203 src:000007,havoc:1 +count+cov
+Saving new input (at run 2743): input #204 of size 188; total coverage = 7169
+Saved - /home/wxj/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000204 src:000007,havoc:8 +count+cov+valid
+Saving new input (at run 2753): input #205 of size 37; total coverage = 7169
+Saved - /home/wxj/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000205 src:000007,havoc:13 +count
+Saving new input (at run 2773): input #206 of size 3960; total coverage = 7172
+Saved - /home/wxj/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000206 src:000007,havoc:15 +count+cov
+Saving new input (at run 2774): input #207 of size 2345; total coverage = 7174
+Saved - /home/wxj/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000207 src:000007,havoc:2 +count+cov
+Saving new input (at run 2810): input #208 of size 66; total coverage = 7174
+Saved - /home/wxj/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000208 src:000008,havoc:1 +count
+Saving new input (at run 2859): input #209 of size 49; total coverage = 7174
+Saved - /home/wxj/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000209 src:000008,havoc:8 +count
+Saving new input (at run 2880): input #210 of size 1859; total coverage = 7174
+Saved - /home/wxj/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000210 src:000008,havoc:3 +count
+Saving new input (at run 2898): input #211 of size 44; total coverage = 7174
+Saved - /home/wxj/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000211 src:000008,havoc:3 +count
+Saving new input (at run 2925): input #212 of size 64; total coverage = 7174
+Saved - /home/wxj/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000212 src:000008,havoc:15 +count
+Saving new input (at run 2966): input #213 of size 29; total coverage = 7175
+Saved - /home/wxj/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000213 src:000008,havoc:10 +count+cov+valid
+Saving new input (at run 2985): input #214 of size 550; total coverage = 7176
+Saved - /home/wxj/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000214 src:000008,havoc:18 +count+cov
+Saving new input (at run 3005): input #215 of size 51; total coverage = 7176
+Saved - /home/wxj/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000215 src:000008,havoc:13 +count
+Saving new input (at run 3050): input #216 of size 24; total coverage = 7176
+Saved - /home/wxj/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000216 src:000008,havoc:4 +count
+Saving new input (at run 3071): input #217 of size 5770; total coverage = 7177
+Saved - /home/wxj/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000217 src:000008,havoc:4 +count+cov
+Saving new input (at run 3079): input #218 of size 100; total coverage = 7177
+Saved - /home/wxj/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000218 src:000008,havoc:9 +count
+Saving new input (at run 3125): input #219 of size 19; total coverage = 7177
+Saved - /home/wxj/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000219 src:000008,havoc:16 +count
+Saving new input (at run 3127): input #220 of size 3023; total coverage = 7177
+Saved - /home/wxj/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000220 src:000008,havoc:4 +count
+Saving new input (at run 3170): input #221 of size 339; total coverage = 7177
+Saved - /home/wxj/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000221 src:000008,havoc:3 +count
+Saving new input (at run 3173): input #222 of size 85; total coverage = 7177
+Saved - /home/wxj/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000222 src:000008,havoc:11 +count
+Saving new input (at run 3204): input #223 of size 113; total coverage = 7183
+Saved - /home/wxj/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000223 src:000008,havoc:7 +count+cov+valid
+Saving new input (at run 3241): input #224 of size 10199; total coverage = 7183
+Saved - /home/wxj/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000224 src:000009,havoc:4 +count
+Saving new input (at run 3247): input #225 of size 7178; total coverage = 7191
+Saved - /home/wxj/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000225 src:000009,havoc:4 +count+cov
+Saving new input (at run 3274): input #226 of size 9655; total coverage = 7192
+Saved - /home/wxj/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000226 src:000009,havoc:4 +count+cov
+Saving new input (at run 3281): input #227 of size 4735; total coverage = 7193
+Saved - /home/wxj/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000227 src:000009,havoc:4 +count+cov
+Saving new input (at run 3296): input #228 of size 10214; total coverage = 7193
+Saved - /home/wxj/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000228 src:000009,havoc:4 +count
+Saving new input (at run 3305): input #229 of size 7701; total coverage = 7207
+Saved - /home/wxj/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000229 src:000009,havoc:16 +count+cov
+Saving new input (at run 3321): input #230 of size 9782; total coverage = 7210
+Saved - /home/wxj/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000230 src:000009,havoc:10 +count+cov
+Saving new input (at run 3326): input #231 of size 5266; total coverage = 7211
+Saved - /home/wxj/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000231 src:000009,havoc:18 +count+cov
+Saving new input (at run 3335): input #232 of size 5784; total coverage = 7213
+Saved - /home/wxj/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000232 src:000009,havoc:6 +count+cov
+Saving new input (at run 3355): input #233 of size 4526; total coverage = 7213
+Saved - /home/wxj/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000233 src:000009,havoc:9 +count
+Saving new input (at run 3359): input #234 of size 3956; total coverage = 7213
+Saved - /home/wxj/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000234 src:000009,havoc:5 +count
+Saving new input (at run 3385): input #235 of size 4469; total coverage = 7213
+Saved - /home/wxj/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000235 src:000009,havoc:11 +count
+Saving new input (at run 3389): input #236 of size 9598; total coverage = 7219
+Saved - /home/wxj/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000236 src:000009,havoc:9 +count+cov
+Saving new input (at run 3392): input #237 of size 10028; total coverage = 7219
+Saved - /home/wxj/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000237 src:000009,havoc:8 +count
+Saving new input (at run 3398): input #238 of size 1974; total coverage = 7220
+Saved - /home/wxj/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000238 src:000009,havoc:13 +count+cov
+Saving new input (at run 3400): input #239 of size 103; total coverage = 7220
+Saved - /home/wxj/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000239 src:000009,havoc:35 +count
+Saving new input (at run 3405): input #240 of size 4286; total coverage = 7220
+Saved - /home/wxj/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000240 src:000009,havoc:2 +count
+Saving new input (at run 3409): input #241 of size 166; total coverage = 7220
+Saved - /home/wxj/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000241 src:000009,havoc:6 +count
+Saving new input (at run 3411): input #242 of size 8709; total coverage = 7221
+Saved - /home/wxj/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000242 src:000009,havoc:9 +count+cov
+Saving new input (at run 3447): input #243 of size 8880; total coverage = 7221
+Saved - /home/wxj/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000243 src:000009,havoc:21 +count
+Saving new input (at run 3504): input #244 of size 5416; total coverage = 7222
+Saved - /home/wxj/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000244 src:000009,havoc:4 +count+cov
+Saving new input (at run 3538): input #245 of size 33; total coverage = 7237
+Saved - /home/wxj/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000245 src:000010,havoc:10 +count+cov+valid
+Saving new input (at run 3539): input #246 of size 8419; total coverage = 7238
+Saved - /home/wxj/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000246 src:000010,havoc:3 +count+cov
+Saving new input (at run 3544): input #247 of size 207; total coverage = 7238
+Saved - /home/wxj/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000247 src:000010,havoc:10 +count
+Saving new input (at run 3584): input #248 of size 34; total coverage = 7242
+Saved - /home/wxj/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000248 src:000010,havoc:4 +count+cov+valid
+Saving new input (at run 3596): input #249 of size 56; total coverage = 7250
+Saved - /home/wxj/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000249 src:000010,havoc:14 +count+cov+valid
+Saving new input (at run 3609): input #250 of size 568; total coverage = 7250
+Saved - /home/wxj/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000250 src:000010,havoc:3 +count
+Saving new input (at run 3615): input #251 of size 32; total coverage = 7250
+Saved - /home/wxj/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000251 src:000010,havoc:1 +count
+Saving new input (at run 3623): input #252 of size 72; total coverage = 7251
+Saved - /home/wxj/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000252 src:000010,havoc:7 +count+cov+valid
+Saving new input (at run 3636): input #253 of size 23; total coverage = 7255
+Saved - /home/wxj/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000253 src:000010,havoc:10 +count+cov+valid
+Saving new input (at run 3674): input #254 of size 42; total coverage = 7259
+Saved - /home/wxj/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000254 src:000010,havoc:6 +count+cov+valid
+Found crash: class java.lang.NullPointerException - NAME NaN 1 [length: 20] [source_file: input]
+Saved - /home/wxj/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/failures/id_000004 src:000010,havoc:2 +crash
+Saving new input (at run 3688): input #255 of size 153; total coverage = 7272
+Saved - /home/wxj/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000255 src:000010,havoc:3 +count+cov+valid
+Saving new input (at run 3698): input #256 of size 386; total coverage = 7273
+Saved - /home/wxj/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000256 src:000010,havoc:4 +count+cov
+Saving new input (at run 3700): input #257 of size 31; total coverage = 7273
+Saved - /home/wxj/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000257 src:000010,havoc:6 +count
+Saving new input (at run 3704): input #258 of size 25; total coverage = 7276
+Saved - /home/wxj/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000258 src:000010,havoc:2 +count+cov+valid
+Saving new input (at run 3708): input #259 of size 177; total coverage = 7285
+Saved - /home/wxj/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000259 src:000010,havoc:18 +count+cov+valid
+Saving new input (at run 3719): input #260 of size 23; total coverage = 7287
+Saved - /home/wxj/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000260 src:000010,havoc:20 +count+cov+valid
+Saving new input (at run 3730): input #261 of size 117; total coverage = 7287
+Saved - /home/wxj/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000261 src:000010,havoc:7 +count
+Saving new input (at run 3746): input #262 of size 44; total coverage = 7287
+Saved - /home/wxj/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000262 src:000010,havoc:7 +count
+Saving new input (at run 3755): input #263 of size 82; total coverage = 7305
+Saved - /home/wxj/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000263 src:000010,havoc:5 +count+cov+valid
+Saving new input (at run 3785): input #264 of size 48; total coverage = 7308
+Saved - /home/wxj/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000264 src:000010,havoc:4 +count+cov+valid
+Saving new input (at run 3804): input #265 of size 23; total coverage = 7308
+Saved - /home/wxj/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000265 src:000010,havoc:4 +count
+Saving new input (at run 3806): input #266 of size 68; total coverage = 7366
+Saved - /home/wxj/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000266 src:000010,havoc:12 +count+cov+valid
+Saving new input (at run 3829): input #267 of size 58; total coverage = 7368
+Saved - /home/wxj/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000267 src:000010,havoc:6 +count+cov+valid
+Saving new input (at run 3837): input #268 of size 24; total coverage = 7370
+Saved - /home/wxj/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000268 src:000010,havoc:1 +count+cov+valid
+Saving new input (at run 3851): input #269 of size 32; total coverage = 7373
+Saved - /home/wxj/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000269 src:000010,havoc:5 +count+cov+valid
+Saving new input (at run 3894): input #270 of size 28; total coverage = 7373
+Saved - /home/wxj/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000270 src:000010,havoc:3 +count
+Saving new input (at run 3925): input #271 of size 25; total coverage = 7376
+Saved - /home/wxj/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000271 src:000010,havoc:2 +count+cov+valid
+Saving new input (at run 3928): input #272 of size 110; total coverage = 7380
+Saved - /home/wxj/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000272 src:000010,havoc:3 +count+cov+valid
+Saving new input (at run 3936): input #273 of size 84; total coverage = 7380
+Saved - /home/wxj/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000273 src:000010,havoc:27 +count
+Saving new input (at run 3946): input #274 of size 4164; total coverage = 7381
+Saved - /home/wxj/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000274 src:000010,havoc:24 +count+cov
+Saving new input (at run 3964): input #275 of size 4540; total coverage = 7381
+Saved - /home/wxj/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000275 src:000010,havoc:28 +count
+Saving new input (at run 3984): input #276 of size 108; total coverage = 7382
+Saved - /home/wxj/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000276 src:000011,havoc:3 +count+cov
+Saving new input (at run 4017): input #277 of size 40; total coverage = 7382
+Saved - /home/wxj/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000277 src:000011,havoc:7 +count
+Found crash: class java.lang.NullPointerException - NAME j_2 1 [length: 3] [source_file: input]
+Saved - /home/wxj/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/failures/id_000005 src:000011,havoc:6 +crash
+Saving new input (at run 4108): input #278 of size 34; total coverage = 7387
+Saved - /home/wxj/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000278 src:000011,havoc:15 +count+cov+valid
+Saving new input (at run 4129): input #279 of size 3926; total coverage = 7388
+Saved - /home/wxj/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000279 src:000011,havoc:5 +count+cov
+Saving new input (at run 4154): input #280 of size 6398; total coverage = 7388
+Saved - /home/wxj/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000280 src:000011,havoc:28 +count
+Saving new input (at run 4196): input #281 of size 108; total coverage = 7390
+Saved - /home/wxj/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000281 src:000011,havoc:1 +count+cov+valid
+Saving new input (at run 4220): input #282 of size 63; total coverage = 7391
+Saved - /home/wxj/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000282 src:000011,havoc:3 +count+cov+valid
+Saving new input (at run 4260): input #283 of size 33; total coverage = 7397
+Saved - /home/wxj/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000283 src:000011,havoc:7 +count+cov+valid
+Saving new input (at run 4331): input #284 of size 90; total coverage = 7397
+Saved - /home/wxj/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000284 src:000011,havoc:8 +count
+Saving new input (at run 4437): input #285 of size 37; total coverage = 7397
+Saved - /home/wxj/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000285 src:000012,havoc:6 +count+valid
+Saving new input (at run 4465): input #286 of size 256; total coverage = 7397
+Saved - /home/wxj/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000286 src:000012,havoc:6 +count
+Saving new input (at run 4504): input #287 of size 444; total coverage = 7398
+Saved - /home/wxj/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000287 src:000012,havoc:8 +count+cov
+Saving new input (at run 4521): input #288 of size 71; total coverage = 7410
+Saved - /home/wxj/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000288 src:000012,havoc:5 +count+cov+valid
+Saving new input (at run 4522): input #289 of size 3916; total coverage = 7411
+Saved - /home/wxj/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000289 src:000012,havoc:5 +count+cov
+Saving new input (at run 4530): input #290 of size 8447; total coverage = 7412
+Saved - /home/wxj/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000290 src:000012,havoc:10 +count+cov
+Saving new input (at run 4578): input #291 of size 116; total coverage = 7412
+Saved - /home/wxj/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000291 src:000012,havoc:4 +count
+Saving new input (at run 4609): input #292 of size 166; total coverage = 7412
+Saved - /home/wxj/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000292 src:000012,havoc:3 +count
+Saving new input (at run 4614): input #293 of size 40; total coverage = 7412
+Saved - /home/wxj/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000293 src:000012,havoc:14 +count
+Saving new input (at run 4638): input #294 of size 10122; total coverage = 7412
+Saved - /home/wxj/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000294 src:000012,havoc:10 +count
+Saving new input (at run 4640): input #295 of size 1312; total coverage = 7412
+Saved - /home/wxj/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000295 src:000012,havoc:6 +count
+Saving new input (at run 4655): input #296 of size 10218; total coverage = 7412
+Saved - /home/wxj/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000296 src:000012,havoc:5 +count
+Saving new input (at run 4656): input #297 of size 196; total coverage = 7412
+Saved - /home/wxj/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000297 src:000012,havoc:3 +count
+Saving new input (at run 4674): input #298 of size 5689; total coverage = 7413
+Saved - /home/wxj/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000298 src:000013,havoc:39 +count+cov
+Saving new input (at run 4684): input #299 of size 33; total coverage = 7413
+Saved - /home/wxj/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000299 src:000013,havoc:6 +count
+Saving new input (at run 4692): input #300 of size 34; total coverage = 7420
+Saved - /home/wxj/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000300 src:000013,havoc:1 +count+cov+valid
+Saving new input (at run 4693): input #301 of size 33; total coverage = 7427
+Saved - /home/wxj/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000301 src:000013,havoc:6 +count+cov+valid
+Saving new input (at run 4702): input #302 of size 411; total coverage = 7427
+Saved - /home/wxj/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000302 src:000014,havoc:9 +count
+Found crash: class java.lang.NullPointerException - NAME u_2 1 [length: 3] [source_file: input]
+Saved - /home/wxj/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/failures/id_000006 src:000014,havoc:2 +crash
+Saving new input (at run 4722): input #303 of size 196; total coverage = 7427
+Saved - /home/wxj/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000303 src:000014,havoc:11 +count
+Saving new input (at run 4724): input #304 of size 100; total coverage = 7428
+Saved - /home/wxj/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000304 src:000014,havoc:3 +count+cov+valid
+Saving new input (at run 4728): input #305 of size 130; total coverage = 7428
+Saved - /home/wxj/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000305 src:000014,havoc:8 +count
+Saving new input (at run 4732): input #306 of size 5530; total coverage = 7428
+Saved - /home/wxj/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000306 src:000014,havoc:1 +count
+Saving new input (at run 4736): input #307 of size 197; total coverage = 7428
+Saved - /home/wxj/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000307 src:000014,havoc:7 +count
+Saving new input (at run 4742): input #308 of size 50; total coverage = 7442
+Saved - /home/wxj/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000308 src:000014,havoc:9 +count+cov+valid
+Saving new input (at run 4756): input #309 of size 90; total coverage = 7443
+Saved - /home/wxj/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000309 src:000014,havoc:15 +count+cov+valid
+Saving new input (at run 4762): input #310 of size 93; total coverage = 7445
+Saved - /home/wxj/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000310 src:000014,havoc:12 +count+cov+valid
+Saving new input (at run 4769): input #311 of size 169; total coverage = 7445
+Saved - /home/wxj/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000311 src:000014,havoc:1 +count
+Saving new input (at run 4771): input #312 of size 179; total coverage = 7445
+Saved - /home/wxj/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000312 src:000014,havoc:1 +count
+Saving new input (at run 4778): input #313 of size 176; total coverage = 7445
+Saved - /home/wxj/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000313 src:000014,havoc:6 +count
+Saving new input (at run 4799): input #314 of size 93; total coverage = 7445
+Saved - /home/wxj/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000314 src:000014,havoc:3 +count
+Saving new input (at run 4839): input #315 of size 84; total coverage = 7445
+Saved - /home/wxj/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000315 src:000014,havoc:14 +count+valid
+Saving new input (at run 4842): input #316 of size 2429; total coverage = 7446
+Saved - /home/wxj/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000316 src:000014,havoc:5 +count+cov
+Saving new input (at run 4846): input #317 of size 194; total coverage = 7448
+Saved - /home/wxj/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000317 src:000014,havoc:6 +count+cov+valid
+Saving new input (at run 4851): input #318 of size 43; total coverage = 7453
+Saved - /home/wxj/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000318 src:000015,havoc:1 +count+cov+valid
+Saving new input (at run 4894): input #319 of size 53; total coverage = 7453
+Saved - /home/wxj/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000319 src:000016,havoc:3 +count
+Saving new input (at run 4936): input #320 of size 87; total coverage = 7461
+Saved - /home/wxj/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000320 src:000016,havoc:2 +count+cov+valid
+Saving new input (at run 4940): input #321 of size 84; total coverage = 7461
+Saved - /home/wxj/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000321 src:000016,havoc:8 +count
+Saving new input (at run 4943): input #322 of size 53; total coverage = 7463
+Saved - /home/wxj/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000322 src:000016,havoc:5 +count+cov
+Saving new input (at run 5011): input #323 of size 4886; total coverage = 7463
+Saved - /home/wxj/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000323 src:000016,havoc:25 +count
+Saving new input (at run 5049): input #324 of size 41; total coverage = 7464
+Saved - /home/wxj/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000324 src:000016,havoc:9 +count+cov+valid
+Saving new input (at run 5069): input #325 of size 5677; total coverage = 7464
+Saved - /home/wxj/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000325 src:000017,havoc:5 +count
+Saving new input (at run 5077): input #326 of size 3564; total coverage = 7467
+Saved - /home/wxj/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000326 src:000017,havoc:23 +count+cov
+Saving new input (at run 5083): input #327 of size 6391; total coverage = 7467
+Saved - /home/wxj/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000327 src:000017,havoc:8 +count
+Saving new input (at run 5089): input #328 of size 7416; total coverage = 7468
+Saved - /home/wxj/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000328 src:000017,havoc:18 +count+cov
+Saving new input (at run 5101): input #329 of size 4708; total coverage = 7471
+Saved - /home/wxj/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000329 src:000017,havoc:17 +count+cov
+Saving new input (at run 5141): input #330 of size 6127; total coverage = 7471
+Saved - /home/wxj/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000330 src:000017,havoc:7 +count
+Saving new input (at run 5143): input #331 of size 9583; total coverage = 7474
+Saved - /home/wxj/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000331 src:000017,havoc:5 +count+cov
+Saving new input (at run 5148): input #332 of size 9251; total coverage = 7476
+Saved - /home/wxj/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000332 src:000017,havoc:9 +count+cov
+Saving new input (at run 5168): input #333 of size 3908; total coverage = 7476
+Saved - /home/wxj/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000333 src:000017,havoc:8 +count
+Saving new input (at run 5177): input #334 of size 4506; total coverage = 7480
+Saved - /home/wxj/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000334 src:000017,havoc:12 +count+cov
+Saving new input (at run 5178): input #335 of size 8074; total coverage = 7481
+Saved - /home/wxj/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000335 src:000017,havoc:1 +count+cov
+Saving new input (at run 5180): input #336 of size 7215; total coverage = 7481
+Saved - /home/wxj/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000336 src:000017,havoc:7 +count
+Saving new input (at run 5181): input #337 of size 3993; total coverage = 7482
+Saved - /home/wxj/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000337 src:000017,havoc:10 +count+cov
+Saving new input (at run 5185): input #338 of size 7618; total coverage = 7482
+Saved - /home/wxj/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000338 src:000017,havoc:20 +count
+Saving new input (at run 5187): input #339 of size 6263; total coverage = 7503
+Saved - /home/wxj/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000339 src:000017,havoc:2 +count+cov
+Saving new input (at run 5188): input #340 of size 9495; total coverage = 7503
+Saved - /home/wxj/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000340 src:000017,havoc:7 +count
+Saving new input (at run 5191): input #341 of size 9831; total coverage = 7503
+Saved - /home/wxj/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000341 src:000017,havoc:5 +count
+Saving new input (at run 5213): input #342 of size 4933; total coverage = 7503
+Saved - /home/wxj/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000342 src:000017,havoc:3 +count
+Saving new input (at run 5216): input #343 of size 2508; total coverage = 7503
+Saved - /home/wxj/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000343 src:000017,havoc:9 +count
+Saving new input (at run 5227): input #344 of size 9283; total coverage = 7503
+Saved - /home/wxj/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000344 src:000017,havoc:7 +count
+Saving new input (at run 5237): input #345 of size 5655; total coverage = 7516
+Saved - /home/wxj/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000345 src:000017,havoc:6 +count+cov
+Saving new input (at run 5245): input #346 of size 9259; total coverage = 7518
+Saved - /home/wxj/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000346 src:000017,havoc:1 +count+cov
+Saving new input (at run 5280): input #347 of size 712; total coverage = 7518
+Saved - /home/wxj/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000347 src:000017,havoc:18 +count
+Saving new input (at run 5329): input #348 of size 9882; total coverage = 7518
+Saved - /home/wxj/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000348 src:000017,havoc:1 +count
+Saving new input (at run 5331): input #349 of size 4377; total coverage = 7519
+Saved - /home/wxj/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000349 src:000017,havoc:18 +count+cov
+Saving new input (at run 5338): input #350 of size 34; total coverage = 7538
+Saved - /home/wxj/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000350 src:000018,havoc:5 +count+cov+valid
+Saving new input (at run 5350): input #351 of size 58; total coverage = 7540
+Saved - /home/wxj/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000351 src:000018,havoc:2 +count+cov+valid
+Saving new input (at run 5361): input #352 of size 40; total coverage = 7540
+Saved - /home/wxj/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000352 src:000018,havoc:9 +count
+Saving new input (at run 5373): input #353 of size 67; total coverage = 7543
+Saved - /home/wxj/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000353 src:000018,havoc:10 +count+cov+valid
+Saving new input (at run 5387): input #354 of size 33; total coverage = 7543
+Saved - /home/wxj/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000354 src:000018,havoc:3 +count
+Saving new input (at run 5407): input #355 of size 56; total coverage = 7543
+Saved - /home/wxj/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000355 src:000018,havoc:10 +count
+Found crash: class java.lang.NullPointerException - NAME o_1 1 [length: 3] [source_file: input]
+Saved - /home/wxj/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/failures/id_000007 src:000018,havoc:3 +crash
+Saving new input (at run 5442): input #356 of size 43; total coverage = 7544
+Saved - /home/wxj/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000356 src:000018,havoc:8 +count+cov+valid
+Saving new input (at run 5500): input #357 of size 102; total coverage = 7583
+Saved - /home/wxj/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000357 src:000018,havoc:8 +count+cov+valid
+Saving new input (at run 5509): input #358 of size 48; total coverage = 7583
+Saved - /home/wxj/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000358 src:000018,havoc:7 +count
+Saving new input (at run 5576): input #359 of size 49; total coverage = 7583
+Saved - /home/wxj/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000359 src:000018,havoc:1 +count
+Saving new input (at run 5580): input #360 of size 93; total coverage = 7609
+Saved - /home/wxj/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000360 src:000018,havoc:4 +count+cov+valid
+Saving new input (at run 5582): input #361 of size 7063; total coverage = 7609
+Saved - /home/wxj/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000361 src:000018,havoc:10 +count
+Saving new input (at run 5586): input #362 of size 43; total coverage = 7609
+Saved - /home/wxj/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000362 src:000018,havoc:2 +valid
+Saving new input (at run 5596): input #363 of size 58; total coverage = 7620
+Saved - /home/wxj/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000363 src:000018,havoc:3 +count+cov+valid
+Found crash: class java.lang.NullPointerException - NAME j_2 1 [length: 3] [source_file: input]
+Saved - /home/wxj/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/failures/id_000008 src:000018,havoc:2 +crash
+Saving new input (at run 5718): input #364 of size 47; total coverage = 7623
+Saved - /home/wxj/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000364 src:000018,havoc:23 +count+cov+valid
+Found crash: class java.lang.NullPointerException - NAME NaN 1 [length: 18] [source_file: input]
+Saved - /home/wxj/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/failures/id_000009 src:000018,havoc:6 +crash
+Saving new input (at run 5776): input #365 of size 55; total coverage = 7623
+Saved - /home/wxj/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000365 src:000018,havoc:16 +count+valid
+Saving new input (at run 5782): input #366 of size 131; total coverage = 7630
+Saved - /home/wxj/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000366 src:000018,havoc:31 +count+cov+valid
+Saving new input (at run 5786): input #367 of size 55; total coverage = 7630
+Saved - /home/wxj/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000367 src:000018,havoc:4 +count
+Saving new input (at run 5792): input #368 of size 33; total coverage = 7630
+Saved - /home/wxj/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000368 src:000018,havoc:6 +count
+Saving new input (at run 5809): input #369 of size 6350; total coverage = 7631
+Saved - /home/wxj/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000369 src:000019,havoc:5 +count+cov
+Saving new input (at run 5873): input #370 of size 62; total coverage = 7670
+Saved - /home/wxj/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000370 src:000019,havoc:24 +count+cov+valid
+Saving new input (at run 5890): input #371 of size 5424; total coverage = 7671
+Saved - /home/wxj/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000371 src:000019,havoc:2 +count+cov
+Saving new input (at run 5905): input #372 of size 196; total coverage = 7671
+Saved - /home/wxj/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000372 src:000019,havoc:4 +count
+Saving new input (at run 5919): input #373 of size 42; total coverage = 7671
+Saved - /home/wxj/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000373 src:000019,havoc:13 +count
+Saving new input (at run 6042): input #374 of size 6075; total coverage = 7674
+Saved - /home/wxj/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000374 src:000019,havoc:4 +count+cov
+Saving new input (at run 6048): input #375 of size 67; total coverage = 7674
+Saved - /home/wxj/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000375 src:000019,havoc:10 +count
+Saving new input (at run 6107): input #376 of size 745; total coverage = 7674
+Saved - /home/wxj/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000376 src:000020,havoc:22 +count
+Saving new input (at run 6183): input #377 of size 59; total coverage = 7674
+Saved - /home/wxj/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000377 src:000020,havoc:9 +count
+Saving new input (at run 6195): input #378 of size 93; total coverage = 7674
+Saved - /home/wxj/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000378 src:000020,havoc:17 +count
+Saving new input (at run 6216): input #379 of size 53; total coverage = 7675
+Saved - /home/wxj/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000379 src:000020,havoc:5 +count+cov+valid
+Saving new input (at run 6219): input #380 of size 8649; total coverage = 7676
+Saved - /home/wxj/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000380 src:000020,havoc:10 +count+cov
+Saving new input (at run 6272): input #381 of size 39; total coverage = 7676
+Saved - /home/wxj/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000381 src:000020,havoc:19 +count
+Saving new input (at run 6325): input #382 of size 43; total coverage = 7676
+Saved - /home/wxj/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000382 src:000020,havoc:1 +count
+Found crash: class java.lang.NullPointerException - NAME NaN 1 [length: 8] [source_file: input]
+Saved - /home/wxj/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/failures/id_000010 src:000020,havoc:21 +crash
+Saving new input (at run 6429): input #383 of size 7828; total coverage = 7677
+Saved - /home/wxj/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000383 src:000020,havoc:4 +count+cov
+Saving new input (at run 6492): input #384 of size 79; total coverage = 7681
+Saved - /home/wxj/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000384 src:000022,havoc:4 +count+cov+valid
+Saving new input (at run 6508): input #385 of size 25; total coverage = 7681
+Saved - /home/wxj/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000385 src:000022,havoc:14 +count
+Saving new input (at run 6515): input #386 of size 57; total coverage = 7683
+Saved - /home/wxj/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000386 src:000022,havoc:17 +count+cov+valid
+Saving new input (at run 6518): input #387 of size 5002; total coverage = 7687
+Saved - /home/wxj/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000387 src:000022,havoc:23 +count+cov
+Saving new input (at run 6544): input #388 of size 37; total coverage = 7688
+Saved - /home/wxj/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000388 src:000022,havoc:4 +count+cov+valid
+Saving new input (at run 6564): input #389 of size 35; total coverage = 7690
+Saved - /home/wxj/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000389 src:000022,havoc:1 +count+cov+valid
+Saving new input (at run 6573): input #390 of size 7911; total coverage = 7690
+Saved - /home/wxj/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000390 src:000022,havoc:3 +count
+Saving new input (at run 6629): input #391 of size 55; total coverage = 7690
+Saved - /home/wxj/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000391 src:000022,havoc:7 +count
+Saving new input (at run 6660): input #392 of size 8848; total coverage = 7691
+Saved - /home/wxj/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000392 src:000022,havoc:2 +count+cov
+Saving new input (at run 6679): input #393 of size 51; total coverage = 7691
+Saved - /home/wxj/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000393 src:000022,havoc:3 +count
+Saving new input (at run 6778): input #394 of size 99; total coverage = 7691
+Saved - /home/wxj/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000394 src:000022,havoc:6 +count
+Saving new input (at run 6841): input #395 of size 94; total coverage = 7691
+Saved - /home/wxj/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000395 src:000022,havoc:1 +count
+Saving new input (at run 6845): input #396 of size 9873; total coverage = 7691
+Saved - /home/wxj/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000396 src:000022,havoc:8 +count
+Saving new input (at run 6872): input #397 of size 158; total coverage = 7691
+Saved - /home/wxj/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000397 src:000022,havoc:2 +count
+Saving new input (at run 6873): input #398 of size 35; total coverage = 7691
+Saved - /home/wxj/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000398 src:000022,havoc:1 +count
+Saving new input (at run 6875): input #399 of size 25; total coverage = 7691
+Saved - /home/wxj/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000399 src:000022,havoc:13 +count
+Saving new input (at run 6886): input #400 of size 65; total coverage = 7699
+Saved - /home/wxj/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000400 src:000022,havoc:5 +count+cov+valid
+Saving new input (at run 6888): input #401 of size 94; total coverage = 7703
+Saved - /home/wxj/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000401 src:000022,havoc:4 +count+cov+valid
+Saving new input (at run 6921): input #402 of size 148; total coverage = 7703
+Saved - /home/wxj/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000402 src:000023,havoc:5 +count
+Saving new input (at run 6927): input #403 of size 9092; total coverage = 7703
+Saved - /home/wxj/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000403 src:000023,havoc:33 +count
+Saving new input (at run 6932): input #404 of size 25; total coverage = 7703
+Saved - /home/wxj/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000404 src:000023,havoc:1 +count
+Saving new input (at run 6956): input #405 of size 31; total coverage = 7703
+Saved - /home/wxj/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000405 src:000023,havoc:4 +count
+Found crash: class java.lang.NullPointerException - NAME a_0 1 [length: 3] [source_file: input]
+Saved - /home/wxj/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/failures/id_000011 src:000023,havoc:2 +crash
+Saving new input (at run 6971): input #406 of size 898; total coverage = 7703
+Saved - /home/wxj/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000406 src:000023,havoc:34 +count
+Saving new input (at run 7036): input #407 of size 10174; total coverage = 7704
+Saved - /home/wxj/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000407 src:000023,havoc:4 +count+cov
+Saving new input (at run 7077): input #408 of size 94; total coverage = 7704
+Saved - /home/wxj/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000408 src:000023,havoc:27 +count
+Saving new input (at run 7124): input #409 of size 58; total coverage = 7704
+Saved - /home/wxj/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000409 src:000023,havoc:7 +count
+Saving new input (at run 7146): input #410 of size 20; total coverage = 7704
+Saved - /home/wxj/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000410 src:000023,havoc:9 +count+valid
+Saving new input (at run 7178): input #411 of size 34; total coverage = 7704
+Saved - /home/wxj/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000411 src:000023,havoc:5 +count
+Saving new input (at run 7184): input #412 of size 27; total coverage = 7704
+Saved - /home/wxj/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000412 src:000023,havoc:16 +count
+Saving new input (at run 7211): input #413 of size 68; total coverage = 7714
+Saved - /home/wxj/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000413 src:000023,havoc:12 +count+cov+valid
+Saving new input (at run 7226): input #414 of size 95; total coverage = 7716
+Saved - /home/wxj/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000414 src:000023,havoc:9 +count+cov+valid
+Saving new input (at run 7246): input #415 of size 53; total coverage = 7717
+Saved - /home/wxj/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000415 src:000023,havoc:1 +count+cov+valid
+Saving new input (at run 7289): input #416 of size 49; total coverage = 7717
+Saved - /home/wxj/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000416 src:000023,havoc:2 +count
+Saving new input (at run 7325): input #417 of size 53; total coverage = 7718
+Saved - /home/wxj/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000417 src:000023,havoc:8 +count+cov+valid
+Saving new input (at run 7345): input #418 of size 1128; total coverage = 7718
+Saved - /home/wxj/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000418 src:000023,havoc:2 +count
+Saving new input (at run 7366): input #419 of size 61; total coverage = 7718
+Saved - /home/wxj/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000419 src:000023,havoc:7 +count
+Saving new input (at run 7388): input #420 of size 102; total coverage = 7723
+Saved - /home/wxj/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000420 src:000024,havoc:1 +count+cov+valid
+Saving new input (at run 7395): input #421 of size 89; total coverage = 7723
+Saved - /home/wxj/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000421 src:000024,havoc:15 +count
+Saving new input (at run 7421): input #422 of size 330; total coverage = 7742
+Saved - /home/wxj/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000422 src:000024,havoc:14 +count+cov+valid
+Saving new input (at run 7433): input #423 of size 10125; total coverage = 7743
+Saved - /home/wxj/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000423 src:000024,havoc:14 +count+cov
+Saving new input (at run 7517): input #424 of size 473; total coverage = 7743
+Saved - /home/wxj/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000424 src:000024,havoc:9 +count
+Saving new input (at run 7553): input #425 of size 65; total coverage = 7744
+Saved - /home/wxj/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000425 src:000024,havoc:7 +count+cov+valid
+Saving new input (at run 7569): input #426 of size 177; total coverage = 7744
+Saved - /home/wxj/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000426 src:000024,havoc:1 +count
+Saving new input (at run 7638): input #427 of size 8841; total coverage = 7744
+Saved - /home/wxj/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000427 src:000024,havoc:10 +count
+Saving new input (at run 7683): input #428 of size 32; total coverage = 7744
+Saved - /home/wxj/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000428 src:000024,havoc:2 +count
+Saving new input (at run 7704): input #429 of size 51; total coverage = 7744
+Saved - /home/wxj/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000429 src:000024,havoc:9 +count
+Saving new input (at run 7784): input #430 of size 8252; total coverage = 7744
+Saved - /home/wxj/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000430 src:000024,havoc:27 +count
+Saving new input (at run 7786): input #431 of size 9930; total coverage = 7745
+Saved - /home/wxj/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000431 src:000024,havoc:21 +count+cov
+Saving new input (at run 7794): input #432 of size 30; total coverage = 7745
+Saved - /home/wxj/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000432 src:000024,havoc:2 +count
+Saving new input (at run 7922): input #433 of size 40; total coverage = 7745
+Saved - /home/wxj/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000433 src:000026,havoc:13 +count
+Saving new input (at run 7992): input #434 of size 299; total coverage = 7746
+Saved - /home/wxj/jqf/examples/target/fuzz-results/edu.berkeley.cs.jqf.examples.closure.CompilerTest/testWithGenerator/corpus/id_000434 src:000026,havoc:8 +count+cov
