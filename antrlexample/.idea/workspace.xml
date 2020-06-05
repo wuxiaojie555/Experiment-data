@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8e8b3919-f439-41a8-8763-02ebb9706662" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="/opt/apache-maven-3.5.4" />
+        <option name="userSettingsFile" value="/opt/apache-maven-3.5.4/conf/settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="jdkForImporter" value="#JAVA_HOME" />
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ckBLA7UJ1WGxTXbDqlX3UQDwBY" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/lib/antlr-4.7-complete.jar!/" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  </component>
+  <component name="RunManager" selected="Application.JSMain">
+    <configuration name="HelloMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.wxj.demo.HelloMain" />
+      <module name="antlrexample" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.wxj.demo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JSMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.wxj.demo.JSMain" />
+      <module name="antlrexample" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.wxj.demo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.JSMain" />
+        <item itemvalue="Application.HelloMain" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8e8b3919-f439-41a8-8763-02ebb9706662" name="Default Changelist" comment="" />
+      <created>1591062652956</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1591062652956</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.tokens" />
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.g4" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="377" y="316" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1591066584053">
+      <screen x="65" y="24" width="1215" height="1000" />
+    </state>
+    <state x="377" y="316" key="#com.intellij.fileTypes.FileTypeChooser/65.24.1215.1000@65.24.1215.1000" timestamp="1591066584053" />
+    <state x="706" y="226" key="#com.intellij.ide.util.MemberChooser" timestamp="1591242428154">
+      <screen x="65" y="24" width="1855" height="1056" />
+    </state>
+    <state x="485" y="215" key="#com.intellij.ide.util.MemberChooser/65.24.1215.1000@65.24.1215.1000" timestamp="1591234847685" />
+    <state x="706" y="226" key="#com.intellij.ide.util.MemberChooser/65.24.1855.1056@65.24.1855.1056" timestamp="1591242428154" />
+    <state x="488" y="306" key="FileChooserDialogImpl" timestamp="1591088126834">
+      <screen x="65" y="24" width="1855" height="1056" />
+    </state>
+    <state x="342" y="291" key="FileChooserDialogImpl/65.24.1215.1000@65.24.1215.1000" timestamp="1591087513304" />
+    <state x="488" y="306" key="FileChooserDialogImpl/65.24.1855.1056@65.24.1855.1056" timestamp="1591088126834" />
+    <state width="1809" height="704" key="GridCell.Tab.0.bottom" timestamp="1591329628875">
+      <screen x="65" y="24" width="1855" height="1056" />
+    </state>
+    <state width="1169" height="248" key="GridCell.Tab.0.bottom/65.24.1215.1000@65.24.1215.1000" timestamp="1591239029728" />
+    <state width="1809" height="704" key="GridCell.Tab.0.bottom/65.24.1855.1056@65.24.1855.1056" timestamp="1591329628875" />
+    <state width="1809" height="704" key="GridCell.Tab.0.center" timestamp="1591329628873">
+      <screen x="65" y="24" width="1855" height="1056" />
+    </state>
+    <state width="1169" height="248" key="GridCell.Tab.0.center/65.24.1215.1000@65.24.1215.1000" timestamp="1591239029726" />
+    <state width="1809" height="704" key="GridCell.Tab.0.center/65.24.1855.1056@65.24.1855.1056" timestamp="1591329628873" />
+    <state width="1809" height="704" key="GridCell.Tab.0.left" timestamp="1591329628873">
+      <screen x="65" y="24" width="1855" height="1056" />
+    </state>
+    <state width="1169" height="248" key="GridCell.Tab.0.left/65.24.1215.1000@65.24.1215.1000" timestamp="1591239029726" />
+    <state width="1809" height="704" key="GridCell.Tab.0.left/65.24.1855.1056@65.24.1855.1056" timestamp="1591329628873" />
+    <state width="1809" height="704" key="GridCell.Tab.0.right" timestamp="1591329628874">
+      <screen x="65" y="24" width="1855" height="1056" />
+    </state>
+    <state width="1169" height="248" key="GridCell.Tab.0.right/65.24.1215.1000@65.24.1215.1000" timestamp="1591239029727" />
+    <state width="1809" height="704" key="GridCell.Tab.0.right/65.24.1855.1056@65.24.1855.1056" timestamp="1591329628874" />
+    <state x="191" y="197" key="Maven.ArtifactSearchDialog" timestamp="1591087031664">
+      <screen x="65" y="24" width="1215" height="1000" />
+    </state>
+    <state x="191" y="197" key="Maven.ArtifactSearchDialog/65.24.1215.1000@65.24.1215.1000" timestamp="1591087031664" />
+    <state x="530" y="197" key="Maven.ArtifactSearchDialog/65.24.1855.1056@65.24.1855.1056" timestamp="1591085464589" />
+    <state x="181" y="174" key="SettingsEditor" timestamp="1591239902444">
+      <screen x="65" y="24" width="1855" height="1056" />
+    </state>
+    <state x="85" y="89" key="SettingsEditor/65.24.1215.1000@65.24.1215.1000" timestamp="1591087545255" />
+    <state x="181" y="174" key="SettingsEditor/65.24.1855.1056@65.24.1855.1056" timestamp="1591239902444" />
+    <state x="653" y="367" key="com.intellij.ide.util.TipDialog" timestamp="1591276134935">
+      <screen x="65" y="24" width="1855" height="1056" />
+    </state>
+    <state x="450" y="349" key="com.intellij.ide.util.TipDialog/65.24.1215.1000@65.24.1215.1000" timestamp="1591084564133" />
+    <state x="653" y="367" key="com.intellij.ide.util.TipDialog/65.24.1855.1056@65.24.1855.1056" timestamp="1591276134935" />
+    <state x="655" y="246" key="run.anything.popup" timestamp="1591085482048">
+      <screen x="65" y="24" width="1855" height="1056" />
+    </state>
+    <state x="655" y="246" key="run.anything.popup/65.24.1855.1056@65.24.1855.1056" timestamp="1591085482048" />
+  </component>
+</project>
