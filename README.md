@@ -7,5 +7,5 @@ docker data 为作者论文中的全部实验数据
 
 antrlexample 为解析js为AST的demo
 
-kenlm.doc 为kenlm的使用方法 用来构建n-gram模型
+kenlm使用 为kenlm的使用方法 用来构建n-gram模型
 
