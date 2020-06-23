@@ -1,6 +1,7 @@
 package com.wxj.demo;
 
-import org.antlr.v4.runtime.tree.Tree;
+import com.ngram.model;
+//import org.antlr.v4.runtime.tree.Tree;
 
 import java.util.ArrayList;
 import java.util.Collections;
@@ -13,9 +14,13 @@ public class TreeNode {
 
     public TreeNode parent;
 
-    public List<TreeNode>  chlidren = new ArrayList<TreeNode>();
+    public List<TreeNode>  chlidren = new ArrayList<>();
 
     private List<List<TreeNode>> allpath = new ArrayList<>();
+
+    private List<TreeNode> allnode = new ArrayList<>();
+
+    private List<TreeNode> statementnode = new ArrayList<>();
 
 
     public TreeNode(String statement) {
@@ -46,9 +51,10 @@ public class TreeNode {
 
     @Override
     public String toString() {
-        return "TreeNode{" +
-                "statement='" + statement + '\'' +
-                '}';
+//        return "TreeNode{" +
+//                "statement='" + statement + '\'' +
+//                '}';
+        return statement + " ";
     }
 
     public TreeNode getParent() {
@@ -63,6 +69,7 @@ public class TreeNode {
         return statement;
     }
 
+
     public void setStatement(String statement) {
         this.statement = statement;
     }
@@ -70,6 +77,7 @@ public class TreeNode {
     public void setChlidren(List<TreeNode> chlidren) {
         this.chlidren = chlidren;
     }
+
 
     public void setParent(TreeNode parent) {
         this.parent = parent;
@@ -98,12 +106,12 @@ public class TreeNode {
             return builder.toString();
         }
     }
-
+    //获得祖先结点
     public List<TreeNode> getancestor(TreeNode treeNode){
         if (treeNode.getParent() == null) {
             return Collections.emptyList();
         } else {
-            List<TreeNode> ancestors = new ArrayList();
+            List<TreeNode> ancestors = new ArrayList<>();
 
             for(treeNode = treeNode.getParent(); treeNode!= null; treeNode = treeNode.getParent()) {
                 ancestors.add(0,treeNode);
@@ -111,6 +119,66 @@ public class TreeNode {
 
             return ancestors;
         }
+    }
+
+    public  String getngram(int n){
+        TreeNode treeNode = this;
+        String ngram = treeNode.getStatement();
+        for(int i = 0 ;i< n-1;i++){
+            if(treeNode.getParent() == null){
+                break;
+            }
+            else{
+                treeNode = treeNode.getParent();
+                ngram = treeNode.getStatement() + " "+ ngram;
+            }
+        }
+        return ngram;
+    }
+
+    public double getnodeProbability( model Model, int n){
+        return Model.getProbability(this.getngram(n),n);
+    }
+
+
+    public List<TreeNode> getAllnode() {
+        if(allnode.size()!=0)
+            return  allnode;
+        else
+            return  transallnode(this);
+
+    }
+
+    public List<TreeNode> transallnode(TreeNode treeNode){
+
+        if(treeNode!=null){
+            allnode.add(treeNode);
+            if(treeNode.getchildrencount()!=0){
+                for (int i = 0; i <treeNode.getchildrencount(); i++) {
+                    transallnode(treeNode.getChlidren().get(i));
+                }
+            }
+        }
+        return allnode;
+    }
+
+    public  List<TreeNode> getstatemetnodelist(String statement){
+        statementnode.clear();
+        return transstatement(this,statement);
+    }
+
+    public List<TreeNode> transstatement(TreeNode treeNode,String statement){
+        if(treeNode!=null){
+
+            if(treeNode.getStatement().equals(statement))
+             statementnode.add(treeNode);
+            if(treeNode.getchildrencount()!=0){
+                for (int i = 0; i <treeNode.getchildrencount(); i++) {
+                    transstatement(treeNode.getChlidren().get(i),statement);
+                }
+            }
+        }
+        return statementnode;
     }
 
     public List<List<TreeNode>> getpath(TreeNode treeNode){
@@ -127,4 +195,5 @@ public class TreeNode {
         }
         return allpath;
     }
+
 }
